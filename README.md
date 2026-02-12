@@ -1,46 +1,30 @@
-Chatbox is a basic messaging application developed using Android Studio during my Android Application Training. The app allows users to send and receive text messages and share images through a simple and interactive chat interface.
+# Chatbox – Android Messaging Application
 
-Features
+## Overview
 
-Real-time text messaging
+Chatbox is a simple Android messaging application developed using **Java** in Android Studio. The app enables users to send and receive real-time text messages and share images through an interactive chat interface. Firebase is integrated as the backend to manage authentication and store chat data securely.
 
-Image sharing functionality
+## Features
 
-Clean and user-friendly chat interface
+* Real-time text messaging
+* Image sharing functionality
+* Firebase Authentication
+* Firebase Realtime Database for message storage
+* Clean sender and receiver chat layout
+* User-friendly interface
 
-Sender and receiver message layout
+## Technologies Used
 
-Smooth activity navigation
+* Java
+* Android Studio
+* XML (UI Design)
+* Firebase Authentication
+* Firebase Realtime Database
+* Firebase Storage (for image sharing)
 
-Technologies Used
+## How to Run
 
-Android Studio
-
-Java 
-
-XML for UI Design
-
-Firebase 
-
-
-Learning Outcomes
-
-Understanding Android Activity lifecycle
-
-Working with layouts and UI components
-
-Implementing messaging logic
-
-Handling image upload and display
-
-Improving debugging and problem-solving skills
-
-How to Run the Project
-
-Clone the repository
-
-Open the project in Android Studio
-
-Sync Gradle files
-
-Run the app on an emulator or Android device
+1. Clone the repository
+2. Open in Android Studio
+3. Connect Firebase to the project
+4. Sync Gradle and run on an emulator or Android device
